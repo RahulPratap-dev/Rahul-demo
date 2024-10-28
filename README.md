@@ -1,4 +1,4 @@
 # Rahul-demo
-This is my first repositary
+This is my first git repositary
 <br>
 Author- Rahul Pratap
